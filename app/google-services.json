@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "938495046240",
+    "firebase_url": "https://todolist-6a0cc.firebaseio.com",
+    "project_id": "todolist-6a0cc",
+    "storage_bucket": "todolist-6a0cc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:938495046240:android:0f824f5303e2b254ac8905",
+        "android_client_info": {
+          "package_name": "edu.student.todolist"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "938495046240-l0a60rf2k3due1kf5k9tsb4702a4pgto.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "edu.student.todolist",
+            "certificate_hash": "bb856473e2b4d00420b5ee28d7548bc595da5519"
+          }
+        },
+        {
+          "client_id": "938495046240-fb5dtr7tvbea6idkpmrfnsqdig1cubil.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAPc6jPho4qCdVyBT_hGHfsepoSkFuc72M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "938495046240-fb5dtr7tvbea6idkpmrfnsqdig1cubil.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
